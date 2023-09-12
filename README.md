@@ -2,12 +2,12 @@
        Author: ЯΣMZO
        DC invite: discord.gg/4BA4fSNmfT
        GitHub: github.com/r3mz0
-       Donate: bmac.link/r3mz0
+       Donate: bmc.link/r3mz0
        Discord: @r3mz0  -->
 
 # <div align="center">Hello stranger 🖐, I'm ЯΣMZO</div>
 <div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Debugger</strong> from <strong>Slovakia.</strong></div>
-<a href="https://github.com/r3mz0/" target="_blank"><img src="https://cdn.discordapp.com/attachments/417017959802994710/1132385363873251338/Banner.png" /></a>
+<a href="https://github.com/r3mz0/" target="_blank"><img src="https://camo.githubusercontent.com/050e526b2fcd40595b3f1731d34b7be390390e62bde45a4bbc26539c8222c98a/68747470733a2f2f692e696d6775722e636f6d2f445031326838662e706e67" /></a>
 
 # <div align="center">🎉 About Me:</div>
 <strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
@@ -41,7 +41,7 @@
 
   ## <div align="center">💰 You can support me by Donation:</div>
   <p align="center">
-  <a href="https://buymeacoffee.com/r3mz0/" target="_blank"><img src="https://cdn.discordapp.com/attachments/417017959802994710/1132664651528798270/bmac.png" width="205" alt="bmc.link/r3mz0" /></a>
+  <a href="https://buymeacoffee.com/r3mz0/" target="_blank"><img src="https://camo.githubusercontent.com/e9929b7cb591b62c984b72e7ef37c3729f6ec1a9013dd0ee3ab7b8ccfaf65c95/68747470733a2f2f692e696d6775722e636f6d2f387042757271582e706e67" width="205" alt="bmc.link/r3mz0" /></a>
   </p>
   
 <!-- End of the code -->
