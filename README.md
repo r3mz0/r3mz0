@@ -7,7 +7,7 @@
 
 # <div align="center">Hello stranger 🖐, I'm ЯΣMZO</div>
 <div align="center">I'm a <strong>Developer</strong>, <strong>Code Editor</strong> and <strong>Debugger</strong> from <strong>Slovakia.</strong></div>
-<a href="https://github.com/r3mz0/" target="_blank"><img src="https://camo.githubusercontent.com/050e526b2fcd40595b3f1731d34b7be390390e62bde45a4bbc26539c8222c98a/68747470733a2f2f692e696d6775722e636f6d2f445031326838662e706e67" /></a>
+<a href="https://github.com/r3mz0/" target="_blank"><img src="https://raw.githubusercontent.com/r3mz0/banner/main/Banner.png" /></a>
 
 # <div align="center">🎉 About Me:</div>
 <strong>⟨ / ⟩ 🛠️ I always try to work on new things to make everything much easier_
